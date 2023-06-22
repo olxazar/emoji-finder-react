@@ -1,0 +1,23 @@
+.Header {
+  position: relative;
+  height: 295px;
+  background: linear-gradient(92.33deg, #087990 0.12%, #055160 100%);
+  margin: 0 auto;
+  text-align: center;
+  padding: 55px 0 0;
+}
+.header__title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 87px;
+  color: #cff4fc;
+}
+.header__subtitle {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 36px;
+  color: #cff4fc;
+  margin-bottom: 100px;
+}
